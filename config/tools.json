@@ -1,0 +1,14 @@
+{
+    "kicad-cli": {
+        "name": "KiCad CLI",
+        "required": false
+    },
+    "ngspice": {
+        "name": "NGSPICE",
+        "required": false
+    },
+    "git": {
+        "name": "Git",
+        "required": true
+    }
+}

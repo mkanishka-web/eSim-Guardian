@@ -1,0 +1,27 @@
+====================================
+          eSim GUARDIAN REPORT
+====================================
+
+Date and Time: 22-11-2026 11:41:07
+
+CONFIGURED TOOLS
+----------------
+KiCad CLI
+Required: False
+
+NGSPICE
+Required: False
+
+Git
+Required: True
+
+AUDIT STATUS
+------------
+System scan: Run separately
+Dependency check: Run separately
+Compatibility check: Run separately
+Health score: Not recorded in this report
+
+====================================
+       END OF REPORT
+====================================
